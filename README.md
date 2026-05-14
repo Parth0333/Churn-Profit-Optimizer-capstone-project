@@ -1,11 +1,6 @@
 
 # Prescriptive Churn Analytics: Profit-Optimized Retention in E-Commerce 
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2.2-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.24.0-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ##  Project Overview
 Standard machine learning models for customer retention optimize for statistical accuracy (defaulting to a 0.50 probability decision threshold). This approach is financially flawed, as it treats the loss of a low-value customer identically to the loss of a high-value loyalist. 
 
