@@ -13,7 +13,7 @@ This project transitions from **predictive analytics** (forecasting *who* will c
 * **Interactive Enterprise Dashboard:** Operationalizes the mathematics into a Streamlit/Tableau BI dashboard, generating daily, filtered rosters of high-value customers requiring immediate intervention.
 
 ##  Core Results
-* **Predictive Performance:** Achieved an **ROC-AUC of 0.9176** and a minority-class **Recall of 0.84**.
+* **Predictive Performance:** Achieved an **ROC-AUC of 0.9248** and a minority-class **Recall of 0.79**.
 * **Feature Importances:** Identified consecutive `Customer_Service_Calls` and digital `Cart_Abandonment_Rate` as the primary operational catalysts for platform abandonment.
 * **Profit Optimization:** The financial simulator proved that lowering the decision threshold from `0.50` to **`0.28`** maximizes net campaign profit. Tolerating a higher rate of False Positives (wasting discounts on loyalists) successfully captures borderline, high-value flight risks that standard models ignore.
 README (1).md
