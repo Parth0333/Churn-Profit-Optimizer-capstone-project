@@ -1,19 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-1 of 2,272
-(no subject)
-Inbox
-
-Deepak Reddy
-Attachments
-7:23 PM (0 minutes ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 # Prescriptive Churn Analytics: Profit-Optimized Retention in E-Commerce 🛒📉
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
